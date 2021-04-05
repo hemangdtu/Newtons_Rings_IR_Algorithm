@@ -29,17 +29,17 @@ A project aimed at investigating the interference phenomenon of Newton's Rings t
 <tbody>
   <tr>
     <td>1.</td>
-    <td>[edge_detect.py](edge_detect.py)</td>
+    <td>edge_detect.py</td>
     <td>Image recognition algorithm is implemented to detect the circular edges of the Newton's Ring pattern</td>
   </tr>
   <tr>
     <td>2.</td>
-    <td>[pixel_conversion_2.py](pixel_conversion_2.py)</td>
+    <td>pixel_conversion_2.py</td>
     <td>Used for unit conversion from Pixel to Millimeter to implement mathematical calculations involved in Newton's Ring experiment</td>
   </tr>
   <tr>
     <td>3.</td>
-    <td>[plot.py](plot.py)</td>
+    <td>plot.py</td>
     <td>Plotting the results obtained from edge_detect.py and pixel_conversion_2.py</td>
   </tr>
 </tbody>
