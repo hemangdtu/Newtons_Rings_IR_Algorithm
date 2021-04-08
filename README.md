@@ -29,17 +29,17 @@ A project aimed at investigating the interference phenomenon of Newton's Rings t
 <tbody>
   <tr>
     <td>1.</td>
-    <td>[edge_detect.py](https://github.com/hemangdtu/Newtons_Rings_IR_Algorithm/blob/master/edge_detect.py)</td>
+    <td><a href="https://github.com/hemangdtu/Newtons_Rings_IR_Algorithm/blob/master/edge_detect.py" target="_blank" rel="noopener noreferrer">edge_detect.py</a></td>
     <td>Image recognition algorithm is implemented to detect the circular edges of the Newton's Ring pattern</td>
   </tr>
   <tr>
     <td>2.</td>
-    <td>[pixel_conversion_2.py](https://github.com/hemangdtu/Newtons_Rings_IR_Algorithm/blob/master/pixel_conversion_2.py)</td>
+    <td><a href="https://github.com/hemangdtu/Newtons_Rings_IR_Algorithm/blob/master/pixel_conversion_2.py" target="_blank" rel="noopener noreferrer">pixel_conversion_2.py</a></td>
     <td>Used for unit conversion from Pixel to Millimeter to implement mathematical calculations involved in Newton's Ring experiment</td>
   </tr>
   <tr>
     <td>3.</td>
-    <td>[plot.py](https://github.com/hemangdtu/Newtons_Rings_IR_Algorithm/blob/master/plot.py)</td>
+    <td><a href="https://github.com/hemangdtu/Newtons_Rings_IR_Algorithm/blob/master/plot.py" target="_blank" rel="noopener noreferrer">plot.py</a></td>
     <td>Plotting the results obtained from edge_detect.py and pixel_conversion_2.py</td>
   </tr>
 </tbody>
